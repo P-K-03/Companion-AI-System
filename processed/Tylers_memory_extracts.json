@@ -1,0 +1,681 @@
+[
+    {
+        "communication_syle_preference": [
+            "informal",
+            "direct",
+            "casual"
+        ],
+        "emotional_state_indicators": [
+            "concerned",
+            "anxious"
+        ],
+        "explicit_facts": [
+            "user hasn't heard from the other person since last night"
+        ],
+        "implicit_preferences": [
+            "prefers timely responses",
+            "prefers direct communication"
+        ]
+    },
+    {
+        "communication_syle_preference": [
+            "informal",
+            "direct",
+            "concise",
+            "casual"
+        ],
+        "emotional_state_indicators": [
+            "frustration",
+            "disappointment"
+        ],
+        "explicit_facts": [],
+        "implicit_preferences": [
+            "values gym/fitness",
+            "values commitment to plans",
+            "seeks social interaction"
+        ]
+    },
+    {
+        "communication_syle_preference": [
+            "informal",
+            "direct",
+            "concise"
+        ],
+        "emotional_state_indicators": [
+            "frustrated",
+            "annoyed"
+        ],
+        "explicit_facts": [
+            "They skipped the last week"
+        ],
+        "implicit_preferences": [
+            "Prefers more reliable engagement",
+            "Values promptness"
+        ]
+    },
+    {
+        "communication_syle_preference": [
+            "informal",
+            "concise",
+            "direct"
+        ],
+        "emotional_state_indicators": [
+            "positive"
+        ],
+        "explicit_facts": [
+            "new burger spot near your place",
+            "we haven't tried it"
+        ],
+        "implicit_preferences": [
+            "interest in dining out",
+            "willingness to try new places"
+        ]
+    },
+    {
+        "communication_syle_preference": [
+            "informal",
+            "enthusiastic",
+            "slang"
+        ],
+        "emotional_state_indicators": [
+            "positive",
+            "excited"
+        ],
+        "explicit_facts": [
+            "Last second shot was insane"
+        ],
+        "implicit_preferences": [
+            "Enjoys watching sports or high-energy events"
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "direct",
+            "concise",
+            "casual"
+        ],
+        "emotional_state_indicators": [
+            "neutral",
+            "curious"
+        ],
+        "explicit_facts": [
+            "applied to a job"
+        ],
+        "implicit_preferences": [
+            "prefers informal communication",
+            "prefers direct updates about job status"
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            {
+                "text": "informal, supportive, direct",
+                "confidence": "high"
+            }
+        ],
+        "emotional_state_indicators": [
+            {
+                "text": "positive, encouraging",
+                "confidence": "high"
+            }
+        ],
+        "explicit_facts": [],
+        "implicit_preferences": [
+            {
+                "text": "prefers to motivate and reassure others",
+                "confidence": "low"
+            }
+        ]
+    },
+    {
+        "communication_syle_preference": [
+            "informal",
+            "direct"
+        ],
+        "emotional_state_indicators": [
+            "frustrated",
+            "annoyed"
+        ],
+        "explicit_facts": [
+            "Manager was on one today too",
+            "Manager micromanaging everything"
+        ],
+        "implicit_preferences": [
+            "Desires less micromanagement",
+            "Prefers autonomy"
+        ]
+    },
+    {
+        "communication_syle_preference": [
+            "informal",
+            "concise",
+            "direct",
+            "casual"
+        ],
+        "emotional_state_indicators": [
+            "neutral"
+        ],
+        "explicit_facts": [
+            "User will crash Mike's place on Saturday",
+            "User has informed Mike about the plan"
+        ],
+        "implicit_preferences": [
+            "Prefers informal, concise communication",
+            "Prefers to inform friends in advance",
+            "Values planning ahead"
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "concise"
+        ],
+        "emotional_state_indicators": [],
+        "explicit_facts": [
+            "He will come when we show up with pizza",
+            "He cannot say no to free pizza"
+        ],
+        "implicit_preferences": [
+            "Uses free pizza as incentive to get him to comply",
+            "Prefers simple, direct communication"
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            {
+                "text": "informal",
+                "confidence": 0.9
+            },
+            {
+                "text": "concise",
+                "confidence": 0.9
+            },
+            {
+                "text": "casual",
+                "confidence": 0.9
+            },
+            {
+                "text": "uses slang",
+                "confidence": 0.8
+            }
+        ],
+        "emotional_state_indicators": [
+            {
+                "text": "frustration",
+                "confidence": 0.8
+            },
+            {
+                "text": "disappointment",
+                "confidence": 0.7
+            }
+        ],
+        "explicit_facts": [
+            {
+                "text": "GPU is dead",
+                "confidence": 1.0
+            },
+            {
+                "text": "user needs to save up for a new GPU",
+                "confidence": 1.0
+            }
+        ],
+        "implicit_preferences": [
+            {
+                "text": "prefers cost-effective solutions",
+                "confidence": 0.5
+            },
+            {
+                "text": "interested in GPU upgrades",
+                "confidence": 0.6
+            }
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "concise",
+            "direct"
+        ],
+        "emotional_state_indicators": [
+            "frustrated (high confidence)"
+        ],
+        "explicit_facts": [
+            "Playing on an old laptop",
+            "Graphics set to low"
+        ],
+        "implicit_preferences": [
+            "prefers low graphics settings for performance (high confidence)"
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "concise"
+        ],
+        "emotional_state_indicators": [
+            "uncertain (medium confidence)",
+            "stressed (medium confidence)"
+        ],
+        "explicit_facts": [
+            "She is moving soon"
+        ],
+        "implicit_preferences": []
+    },
+    {
+        "communication_style_preferences": [
+            "informal, concise, direct (confidence: high)"
+        ],
+        "emotional_state_indicators": [
+            "positive, amused, slightly resigned (confidence: high)"
+        ],
+        "explicit_facts": [
+            "Gym cures all problems or at least distracts from them (confidence: high)"
+        ],
+        "implicit_preferences": [
+            "Prefers gym as coping mechanism; values humor; prefers brief communication (confidence: high)"
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "casual",
+            "direct",
+            "concise"
+        ],
+        "emotional_state_indicators": [
+            "positive"
+        ],
+        "explicit_facts": [
+            "User will swing by recipient's place in about 40 minutes."
+        ],
+        "implicit_preferences": [
+            "Prefers concise, direct communication about timing",
+            "Values punctuality"
+        ]
+    },
+    {
+        "communication_syle_preference": [
+            "informal",
+            "direct",
+            "casual"
+        ],
+        "emotional_state_indicators": [
+            "neutral",
+            "slightly excited"
+        ],
+        "explicit_facts": [
+            "User is outside"
+        ],
+        "implicit_preferences": [
+            "User expects readiness for quick communication",
+            "prefers casual tone"
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "concise",
+            "direct",
+            "casual"
+        ],
+        "emotional_state_indicators": [
+            "positive excitement",
+            "assertive",
+            "confident"
+        ],
+        "explicit_facts": [
+            "User is at a location where spicy mayo is available",
+            "User wants to go back to a previous location",
+            "User has previously told someone about spicy mayo"
+        ],
+        "implicit_preferences": [
+            "Prefers spicy food",
+            "Values returning to favorite spots",
+            "Enjoys sharing opinions about food"
+        ]
+    },
+    {
+        "communication_syle_preference": [
+            "informal",
+            "humorous",
+            "brief"
+        ],
+        "emotional_state_indicators": [
+            "positive",
+            "excited"
+        ],
+        "explicit_facts": [
+            "completed leg day workout",
+            "earned cheat meal"
+        ],
+        "implicit_preferences": [
+            "values fitness routine",
+            "enjoys cheat meals",
+            "uses humor to express success"
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "concise",
+            "direct"
+        ],
+        "emotional_state_indicators": [
+            "confident"
+        ],
+        "explicit_facts": [
+            "User will pick up some stuff on the way",
+            "User asks if the other person will get the snacks"
+        ],
+        "implicit_preferences": [
+            "Prefers to handle snack logistics personally",
+            "Prefers concise communication",
+            "Prefers to confirm arrangements"
+        ]
+    },
+    {
+        "communication_syle_preference": [
+            "informal and casual"
+        ],
+        "emotional_state_indicators": [
+            "neutral, hopeful"
+        ],
+        "explicit_facts": [
+            "User plans to use an old laptop to run a game"
+        ],
+        "implicit_preferences": [
+            "User seeks encouragement, prefers informal support"
+        ]
+    },
+    {
+        "communication_syle_preference": [
+            {
+                "style": "informal",
+                "conciseness": "concise",
+                "directness": "direct",
+                "confidence": "high"
+            }
+        ],
+        "emotional_state_indicators": [
+            {
+                "state": "neutral",
+                "confidence": "medium"
+            }
+        ],
+        "explicit_facts": [
+            {
+                "fact": "User disconnects randomly",
+                "confidence": "high"
+            }
+        ],
+        "implicit_preferences": [
+            {
+                "preference": "User prefers to assume computer exploded to avoid blame",
+                "confidence": "medium"
+            }
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "casual",
+            "humorous",
+            "descriptive",
+            "concise but detailed"
+        ],
+        "emotional_state_indicators": [
+            "amused",
+            "frustrated (low confidence)"
+        ],
+        "explicit_facts": [
+            "User attempted to launch a game",
+            "Laptop fan sounded like a jet engine",
+            "Game lobby loaded",
+            "Textures not loading properly",
+            "Players appear as melted clay figures",
+            "Game is unplayable"
+        ],
+        "implicit_preferences": [
+            "Enjoys humor about technical glitches",
+            "Values playability of games",
+            "Prefers casual communication style",
+            "Interested in troubleshooting issues"
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "casual",
+            "direct",
+            "conversational"
+        ],
+        "emotional_state_indicators": [
+            "frustrated"
+        ],
+        "explicit_facts": [
+            "keyboard overheating",
+            "using Discord on phone",
+            "doesn't want to miss banter",
+            "cannot play"
+        ],
+        "implicit_preferences": [
+            "prefers to stay engaged in conversation",
+            "prefers mobile communication",
+            "values social interaction"
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "conversational",
+            "direct",
+            "casual"
+        ],
+        "emotional_state_indicators": [
+            "frustrated",
+            "neutral",
+            "casual"
+        ],
+        "explicit_facts": [
+            "Mike has poor job luck",
+            "User will join soon",
+            "User is asking about bringing beer or stronger alcohol for Saturday",
+            "Tequila on sale at nearby store",
+            "User intends to use tequila for shots"
+        ],
+        "implicit_preferences": [
+            "Prefers stronger alcohol like tequila for shots",
+            "Prefers buying on sale",
+            "Enjoys casual social gatherings"
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "casual",
+            "direct",
+            "concise"
+        ],
+        "emotional_state_indicators": [
+            "frustrated",
+            "negative"
+        ],
+        "explicit_facts": [
+            "couch situation",
+            "prefers beer",
+            "prefers one bottle of decent beverage",
+            "does not want to lift heavy furniture while hungover",
+            "concerns about back injury"
+        ],
+        "implicit_preferences": [
+            "prefers low physical effort",
+            "prefers casual drinking",
+            "values safety"
+        ]
+    },
+    {
+        "communication_syle_preference": [
+            {
+                "text": "Informal conversational tone",
+                "confidence": "high"
+            },
+            {
+                "text": "Direct communication style",
+                "confidence": "high"
+            }
+        ],
+        "emotional_state_indicators": [
+            {
+                "text": "Surprised/excited (Whoa)",
+                "confidence": "high"
+            },
+            {
+                "text": "Cautious/concerned about Mike's reaction",
+                "confidence": "medium"
+            }
+        ],
+        "explicit_facts": [
+            {
+                "text": "Mike had a crush on the woman in the past",
+                "confidence": "high"
+            },
+            {
+                "text": "User advises to clear with Mike before giving green light",
+                "confidence": "high"
+            }
+        ],
+        "implicit_preferences": [
+            {
+                "text": "Prefers to check with involved parties before decisions",
+                "confidence": "high"
+            },
+            {
+                "text": "Values transparency and avoids awkwardness",
+                "confidence": "medium"
+            }
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "conversational",
+            "direct",
+            "humorous",
+            "playful"
+        ],
+        "emotional_state_indicators": [
+            "amused",
+            "exasperated",
+            "anxious",
+            "confident"
+        ],
+        "explicit_facts": [
+            "He still has a thing for her",
+            "We need to run interference on Saturday",
+            "We'll keep the groups separated until Mike is sufficiently lubricated"
+        ],
+        "implicit_preferences": [
+            "prefers to avoid awkward silences",
+            "prefers to manage group dynamics",
+            "prefers to lead banter",
+            "prefers to keep groups separated until Mike is ready",
+            "prefers planning and control of social situations"
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "direct",
+            "friendly",
+            "humorous"
+        ],
+        "emotional_state_indicators": [
+            "positive",
+            "appreciative"
+        ],
+        "explicit_facts": [
+            "8:30 is the agreed time",
+            "will pick up a 12-pack",
+            "may buy a cheap bottle of Merlot",
+            "will get sour cream and onion chips",
+            "user is taking care of snacks"
+        ],
+        "implicit_preferences": [
+            "values presenting oneself classily",
+            "cares about the other person's snack preferences",
+            "shows supportive and appreciative attitude"
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "enthusiastic",
+            "direct",
+            "supportive"
+        ],
+        "emotional_state_indicators": [
+            "positive",
+            "excited"
+        ],
+        "explicit_facts": [
+            "portfolio is killer",
+            "talked about pay rate"
+        ],
+        "implicit_preferences": [
+            "prefers direct encouragement",
+            "values authenticity",
+            "values career advancement"
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "supportive",
+            "encouraging"
+        ],
+        "emotional_state_indicators": [
+            "positive",
+            "excited",
+            "confident"
+        ],
+        "explicit_facts": [
+            "practice tomorrow",
+            "will play role of intimidating art director",
+            "will ask tough obscure questions about design theory",
+            "low-stakes drill to get jitters out"
+        ],
+        "implicit_preferences": [
+            "prefers low-stakes practice",
+            "values preparation and challenge",
+            "enjoys role play",
+            "seeks supportive environment"
+        ]
+    },
+    {
+        "communication_style_preferences": [
+            "informal",
+            "supportive",
+            "motivational",
+            "friendly",
+            "direct"
+        ],
+        "emotional_state_indicators": [
+            "positive",
+            "encouraging"
+        ],
+        "explicit_facts": [
+            "user works a warehouse shift",
+            "user does leg day workout",
+            "user has interview bootcamp tomorrow morning",
+            "user wants to get a job"
+        ],
+        "implicit_preferences": [
+            "prefers informal, casual communication",
+            "values fitness and recovery",
+            "values career advancement",
+            "seeks supportive encouragement",
+            "prefers short, direct messages"
+        ]
+    }
+]
