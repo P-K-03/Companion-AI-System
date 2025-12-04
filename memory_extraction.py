@@ -9,13 +9,13 @@ from prompts import extract_message_features_prompt, memory_extractor_system_pro
 
 
 # Model to get structured output
-class ExtractOutput(BaseModel):
+class ExtractFeaturesSchema(BaseModel):
     communication_syle_preference: List[str]
     emotional_state_indicators: List[str]
     explicit_facts: List[str]
     implicit_preferences: List[str]
 
-class AggregatePattern(BaseModel):
+class AggregatePatternSchema(BaseModel):
     preferences: List[str]
     emotional_patterns: List[str]
     facts: List[str]  
@@ -52,7 +52,7 @@ def extract_features_from_chat(client: Groq, source_chats_path: str, dest_chats_
                 "type": "json_schema",
                 "json_schema": {
                     "name": "extract_output",
-                    "schema": ExtractOutput.model_json_schema(),
+                    "schema": ExtractFeaturesSchema.model_json_schema(),
                 },
             },
         )
@@ -74,35 +74,41 @@ def extract_features_from_chat(client: Groq, source_chats_path: str, dest_chats_
     print("Data extracted from all text messages")
     return extracts
 
-def aggregate_patterns_from_features(client: Groq, extracted_features_path: str, extracts: List[Dict] = None):
-        if extracts is None:
-            with open(extracted_features_path, "r") as file:
-                data = json.load(file)
-            extracts = data
-        aggregate_patterns = []
-        for i in range(0, len(extracts)):
-            chat_completion = client.chat.completions.create(
-                messages=[
-                    {
-                        "role": "system",
-                        "content": memory_extractor_system_prompt,
-                    },
-                    {
-                        "role": "user",
-                        "content": f"{extract_message_features_prompt} {extracts[i]}",
-                    },
-                ],
-                model="openai/gpt-oss-20b",
-                temperature=0.7,
-                response_format={
-                    "type": "json_schema",
-                    "json_schema": {
-                        "name": "extract_output",
-                        "schema": ExtractOutput.model_json_schema(),
-                    },
-                },
-            )
-            print(chat_completion.choices[0].message.content)
+def aggregate_patterns_from_features(client: Groq, extracted_features_path: str, save_to: str, extracts: List[Dict] = None):
+    if extracts is None:
+        with open(extracted_features_path, "r") as file:
+            data = json.load(file)
+        extracts = data
+    
+    # aggregate_patterns = []
+    chat_completion = client.chat.completions.create(
+        messages=[
+            {
+                "role": "system",
+                "content": memory_extractor_system_prompt,
+            },
+            {
+                "role": "user",
+                "content": f"{extract_aggregate_pattern_prompt} {extracts}",
+            },
+        ],
+        model="openai/gpt-oss-20b",
+        temperature=0.7,
+        response_format={
+            "type": "json_schema",
+            "json_schema": {
+                "name": "extract_output",
+                "schema": AggregatePatternSchema.model_json_schema(),
+            },
+        },
+    )
+    # print(chat_completion.choices[0].message.content)
+
+    # Save the PROFILE to a json file
+    with open(save_to, "w", encoding="utf-8") as file:
+        # json.dump(entry, file)
+        file.write(str(chat_completion.choices[0].message.content))
+    print("Generated User Profile")
         
 
 
@@ -114,8 +120,11 @@ def main():
     client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
 
     # Extracting information from the chats
-    extract_features_from_chat(
-        client, "chats/Tylers_chats.json", "processed/Tylers_memory_extracts.json"
-    )
+    # extract_features_from_chat(
+    #     client, "chats/Tylers_chats.json", "processed/Tylers_memory_extracts.json"
+    # )
+
+    # Create user profile
+    aggregate_patterns_from_features(client,'processed/Tylers_memory_extracts.json', 'processed/Tylers_profile.json')
 
 main()
