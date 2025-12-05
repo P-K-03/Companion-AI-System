@@ -175,5 +175,4 @@ def main():
 
 
 if __name__ == "__main__":
-    # This block executes only when the script is run directly.
     main()
