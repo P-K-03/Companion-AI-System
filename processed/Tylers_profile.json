@@ -1,40 +1,48 @@
 {
+    "generated_at": "2025-12-05T16:36:38.714662",
     "behavioural_insights": [
-        "Consistently prefers informal, direct, concise communication with occasional humor and supportive tone",
-        "Values timely updates and autonomy, especially when dealing with plans or micromanagement",
-        "Shows strong interest in fitness, career advancement, and social gatherings",
-        "Frequently expresses frustration with delays, tech issues, and lack of reliability",
-        "Often excited and positive about workouts, new food spots, and career opportunities"
+        "Consistently uses informal, direct, concise, and casual tone across all messages",
+        "Prefers quick, prompt responses and spontaneous plans with friends",
+        "Frequently uses humor and gaming references to lighten conversation",
+        "Shows a pattern of seeking supportive, encouraging communication when discussing work or personal goals",
+        "Demonstrates a preference for role‑play or mock interview practice to build confidence",
+        "Often references specific times or dates (e.g., 8:30, 10 AM, Saturday) indicating a need for scheduling precision"
     ],
     "contradictions": [],
     "emotional_patterns": [
-        "Frequent frustration and anxiety over plans, micromanagement, and technical setbacks",
-        "Positive excitement and confidence regarding fitness, social events, and career prospects",
-        "Occasional stress or uncertainty about moving and job applications"
+        "Anxious or concerned when plans are uncertain or technical issues arise",
+        "Frustrated or annoyed when expectations are unmet or when micromanagement occurs",
+        "Excited and positive when discussing new food, sports moments, or upcoming events",
+        "Disappointed when friends miss commitments or when events are canceled",
+        "Hopeful and hopeful when planning future activities"
     ],
     "facts": [
-        "Has not heard from the other person since last night",
-        "Applied to a job and discussing portfolio and pay rate",
-        "Manager micromanaging tasks",
-        "Plans to crash Mike's place Saturday with pizza, beer, and tequila",
-        "GPU dead, needs to save for new GPU",
-        "Playing on old laptop with low graphics settings",
-        "Moving soon",
-        "Gym as a coping mechanism",
-        "Will swing by recipient's place in 40 minutes",
-        "Spicy mayo available, wants to return to previous location",
-        "Completed leg day, earned cheat meal",
-        "Will pick up snacks and 12-pack of beer, cheap bottle of Merlot, and chips",
-        "Uses old laptop to run a game, experiences random disconnects and game launch issues",
-        "Keyboard overheating while using Discord on phone",
-        "Mike has poor job luck, wants to bring beer/tequila",
-        "Couch situation: prefers beer, low physical effort, avoids heavy lifting",
-        "Mike had a crush on a woman, advised to clear with Mike before decisions",
-        "8:30 agreed time for gathering, will handle snacks",
-        "Practice tomorrow as art director, role play to reduce jitters",
-        "Works warehouse shift, leg day routine, interview bootcamp tomorrow, seeks new job"
+        "User plans to go to the gym on a specific day and often wants a friend to join",
+        "User uses free pizza as an incentive for friends to attend events",
+        "User has a dead GPU and is saving up for a new one",
+        "User uses an old laptop for gaming and sets graphics to low",
+        "User is moving soon",
+        "User has a pending job application",
+        "User has a manager who micromanages",
+        "User prefers to pick up snacks on the way to gatherings",
+        "User wants to bring a 12‑pack of beer, a cheap bottle of Merlot, and chips to a meetup",
+        "User has an interview bootcamp scheduled for the morning and wants to be prepared",
+        "User has a presentation that must finish at the 14‑minute mark and prioritize confidence",
+        "User wants to present a portfolio with a project refined last week and expects critical feedback on font choices",
+        "User wants to avoid sports talk at a gathering and prefers board games instead"
     ],
     "preferences": [
-        "Informal, direct, concise communication; humor; timely responses; autonomy; planning ahead; fitness and career advancement; cost-effective tech solutions; low physical effort; support others; transparency; casual social gatherings; preference for snacks and food; handling snack logistics personally; buying on sale; bringing beer/tequila; checking with parties before decisions; avoiding awkward silences; low-stakes practice; preparation and challenge; short, direct messages"
+        "Prefers informal, concise, direct communication",
+        "Values prompt, ongoing communication with friends and colleagues",
+        "Prefers autonomy and dislikes micromanagement",
+        "Uses free food as an incentive for social events",
+        "Prefers low‑effort solutions when hungover or physically constrained",
+        "Prefers role‑play learning and mock interviews for confidence building",
+        "Prefers supportive and encouraging language",
+        "Prefers to schedule activities at specific times (e.g., 8:30, 10 AM, Saturday)",
+        "Prefers to double‑check links and details before events",
+        "Prefers to bring drinks and snacks to social gatherings",
+        "Prefers to avoid awkward silence and clarify decisions with involved parties",
+        "Prefers to avoid sports talk and uses board games as social activity"
     ]
 }

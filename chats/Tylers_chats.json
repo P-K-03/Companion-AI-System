@@ -1,1 +1,218 @@
-[{"sender_id": "Tyler", "age": 22, "text": "Yo dude, you alive? Haven't heard from you since last night."}, {"sender_id": "Tyler", "age": 22, "text": "Rip. You still down for the gym later or you gonna bail on me?"}, {"sender_id": "Tyler", "age": 22, "text": "Stop being soft bro. We skipped last week too. Come on."}, {"sender_id": "Tyler", "age": 22, "text": "Deal. There's that new burger spot near your place we haven't tried."}, {"sender_id": "Tyler", "age": 22, "text": "Yeah man! That last second shot was actually insane."}, {"sender_id": "Tyler", "age": 22, "text": "100%. Anyway, did you hear back from that job application yet?"}, {"sender_id": "Tyler", "age": 22, "text": "Don't sweat it. Your portfolio is solid, they'd be dumb not to hire you."}, {"sender_id": "Tyler", "age": 22, "text": "I feel you. My manager was on one today too. Micromanaging everything."}, {"sender_id": "Tyler", "age": 22, "text": "Way ahead of you. Already told Mike we're crashing his place Saturday."}, {"sender_id": "Tyler", "age": 22, "text": "He will when we show up with pizza. He can't say no to free pizza."}, {"sender_id": "Tyler", "age": 22, "text": "It's fried dude. GPU is dead. Gotta save up for a new one."}, {"sender_id": "Tyler", "age": 22, "text": "I'm playing on my old laptop, graphics on low. It's a struggle."}, {"sender_id": "Tyler", "age": 22, "text": "Eh, kinda. It's complicated right now. She's moving soon."}, {"sender_id": "Tyler", "age": 22, "text": "Exactly. Gym cures all problems. Or at least distracts from them."}, {"sender_id": "Tyler", "age": 22, "text": "Cool, I'll swing by your place in like 40 mins? Be ready."}, {"sender_id": "Tyler", "age": 22, "text": "Yo I'm outside. You ready?"}, {"sender_id": "Tyler", "age": 22, "text": "Told you. The spicy mayo is next level. We gotta go back."}, {"sender_id": "Tyler", "age": 22, "text": "Haha same. Leg day success. We definitely earned that cheat meal."}, {"sender_id": "Tyler", "age": 22, "text": "Figured. I'll pick up some stuff on the way. You get the snacks?"}, {"sender_id": "Tyler", "age": 22, "text": "Sweet. I'm gonna hop on the old laptop and try to run a game. Pray for me."}, {"sender_id": "Tyler", "age": 22, "text": "Will do. If I disconnect randomly, just assume my computer exploded."}, {"sender_id": "Tyler", "age": 22, "text": "Okay, so update: I tried launching the game and my laptop fan sounded like a jet engine taking off. I managed to get into the lobby, but the textures aren't loading properly, so everyone looks like melted clay figures. It's actually hilarious but unplayable."}, {"sender_id": "Tyler", "age": 22, "text": "Yeah, I think I'm gonna call it quits. It's overheating so bad I could probably cook an egg on the keyboard right now. I'll just hop on Discord on my phone and chat while you guys play if that's cool? I don't want to miss the banter even if I can't play."}, {"sender_id": "Tyler", "age": 22, "text": "Oh man, Mike always has the worst luck with jobs. I'll join in a sec. By the way, for Saturday, are we bringing just beer or should I grab something stronger? I saw that tequila was on sale at the store down the street, figured it might be good for shots later."}, {"sender_id": "Tyler", "age": 22, "text": "Oh god, I completely forgot about the couch situation. Maybe we stick to beer and maybe just one bottle of something decent. I do not want to be lifting heavy furniture while hungover, that is a recipe for disaster and probably a back injury."}, {"sender_id": "Tyler", "age": 22, "text": "Whoa, that is definitely a curveball. I mean, it's been a while, so it shouldn't be too weird, but Mike might be a bit weird about it since he used to have a crush on her back in the day. Definitely clear it with him before giving her the green light."}, {"sender_id": "Tyler", "age": 22, "text": "Told you! He still has a thing for her, bless his heart. We need to run interference on Saturday, make sure no awkward silences happen. I'll take the lead on the banter and we'll keep the groups separated until Mike is sufficiently lubricated."}, {"sender_id": "Tyler", "age": 22, "text": "8:30 is perfect. I'll pick up a 12-pack and maybe a cheap bottle of Merlot to look classy. Don't worry about the snacks, I'll grab some of those fancy chips you like\u2014you know, the sour cream and onion ones? You deserve them."}, {"sender_id": "Tyler", "age": 22, "text": "HOLY CRAP, that's amazing news! See? I told you your portfolio was killer. When is it? You're gonna crush it, just be yourself, show them why they need you, and remember all the things we talked about regarding your pay rate."}, {"sender_id": "Tyler", "age": 22, "text": "We can totally practice tomorrow! I can play the role of the intimidating art director. I'll come up with some tough, obscure questions about design theory. Just think of it as a low-stakes drill to get the jitters out. We've got this."}, {"sender_id": "Tyler", "age": 22, "text": "Anytime, brother. Get some rest tonight, you deserve it after that warehouse shift and leg day. Focus on recovering. See ya in the morning for interview bootcamp. Get those gains, get that job."}]
+[
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Yo dude, you alive? Haven't heard from you since last night.",
+        "timestamp": "2024-10-27T10:00:00.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Rip. You still down for the gym later or you gonna bail on me?",
+        "timestamp": "2024-10-27T10:02:29.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Stop being soft bro. We skipped last week too. Come on.",
+        "timestamp": "2024-10-27T10:04:31.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Deal. There's that new burger spot near your place we haven't tried.",
+        "timestamp": "2024-10-27T10:06:14.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Yeah man! That last second shot was actually insane.",
+        "timestamp": "2024-10-27T10:08:08.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "100%. Anyway, did you hear back from that job application yet?",
+        "timestamp": "2024-10-27T10:10:20.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Don't sweat it. Your portfolio is solid, they'd be dumb not to hire you.",
+        "timestamp": "2024-10-27T10:12:38.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "I feel you. My manager was on one today too. Micromanaging everything.",
+        "timestamp": "2024-10-27T10:14:15.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Way ahead of you. Already told Mike we're crashing his place Saturday.",
+        "timestamp": "2024-10-27T10:16:03.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "He will when we show up with pizza. He can't say no to free pizza.",
+        "timestamp": "2024-10-27T10:17:34.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "It's fried dude. GPU is dead. Gotta save up for a new one.",
+        "timestamp": "2024-10-27T10:19:35.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "I'm playing on my old laptop, graphics on low. It's a struggle.",
+        "timestamp": "2024-10-27T10:21:42.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Eh, kinda. It's complicated right now. She's moving soon.",
+        "timestamp": "2024-10-27T10:23:25.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Exactly. Gym cures all problems. Or at least distracts from them.",
+        "timestamp": "2024-10-27T10:25:27.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Cool, I'll swing by your place in like 40 mins? Be ready.",
+        "timestamp": "2024-10-27T10:27:07.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Yo I'm outside. You ready?",
+        "timestamp": "2024-10-27T11:06:51.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Told you. The spicy mayo is next level. We gotta go back.",
+        "timestamp": "2024-10-27T13:31:07.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Haha same. Leg day success. We definitely earned that cheat meal.",
+        "timestamp": "2024-10-27T13:32:41.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Figured. I'll pick up some stuff on the way. You get the snacks?",
+        "timestamp": "2024-10-27T13:35:10.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Sweet. I'm gonna hop on the old laptop and try to run a game. Pray for me.",
+        "timestamp": "2024-10-27T13:37:11.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Will do. If I disconnect randomly, just assume my computer exploded.",
+        "timestamp": "2024-10-27T13:39:18.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Okay, so update: I tried launching the game and my laptop fan sounded like a jet engine taking off. I managed to get into the lobby, but the textures aren't loading properly, so everyone looks like melted clay figures. It's actually hilarious but unplayable.",
+        "timestamp": "2024-10-27T19:00:23.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Yeah, I think I'm gonna call it quits. It's overheating so bad I could probably cook an egg on the keyboard right now. I'll just hop on Discord on my phone and chat while you guys play if that's cool? I don't want to miss the banter even if I can't play.",
+        "timestamp": "2024-10-27T19:02:45.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Oh man, Mike always has the worst luck with jobs. I'll join in a sec. By the way, for Saturday, are we bringing just beer or should I grab something stronger? I saw that tequila was on sale at the store down the street, figured it might be good for shots later.",
+        "timestamp": "2024-10-27T19:04:36.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Oh god, I completely forgot about the couch situation. Maybe we stick to beer and maybe just one bottle of something decent. I do not want to be lifting heavy furniture while hungover, that is a recipe for disaster and probably a back injury.",
+        "timestamp": "2024-10-27T19:06:58.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Whoa, that is definitely a curveball. I mean, it's been a while, so it shouldn't be too weird, but Mike might be a bit weird about it since he used to have a crush on her back in the day. Definitely clear it with him before giving her the green light.",
+        "timestamp": "2024-10-27T19:09:40.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Told you! He still has a thing for her, bless his heart. We need to run interference on Saturday, make sure no awkward silences happen. I'll take the lead on the banter and we'll keep the groups separated until Mike is sufficiently lubricated.",
+        "timestamp": "2024-10-27T20:16:11.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "8:30 is perfect. I'll pick up a 12-pack and maybe a cheap bottle of Merlot to look classy. Don't worry about the snacks, I'll grab some of those fancy chips you like\u2014you know, the sour cream and onion ones? You deserve them.",
+        "timestamp": "2024-10-27T20:18:41.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "HOLY CRAP, that's amazing news! See? I told you your portfolio was killer. When is it? You're gonna crush it, just be yourself, show them why they need you, and remember all the things we talked about regarding your pay rate.",
+        "timestamp": "2024-10-27T20:20:56.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "We can totally practice tomorrow! I can play the role of the intimidating art director. I'll come up with some tough, obscure questions about design theory. Just think of it as a low-stakes drill to get the jitters out. We've got this.",
+        "timestamp": "2024-10-27T20:23:43.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Anytime, brother. Get some rest tonight, you deserve it after that warehouse shift and leg day. Focus on recovering. See ya in the morning for interview bootcamp. Get those gains, get that job.",
+        "timestamp": "2024-10-27T20:25:31.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "10 AM sounds good to me. I'll be in character as 'The Intimidating Art Director, Bartholomew.' Expect me to be overly critical about your font choices. Make sure you have your digital portfolio ready to screen share, especially the one project we refined last week.",
+        "timestamp": "2024-10-28T09:31:37.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Don't sweat the rambling. That's why we practice. We'll focus on cutting out filler words and hitting your key metrics right at the 14-minute mark. Remember: confidence over content in the presentation, you already know your stuff. Just sell it.",
+        "timestamp": "2024-10-28T09:33:38.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "He finally conceded. He said, and I quote, 'Fine, as long as he brings something to drink and doesn't talk about sports I don't care about.' So, the bar is pretty low. We should definitely grab a backup board game or something to keep everyone occupied if the vibe gets weird.",
+        "timestamp": "2024-10-28T09:35:50.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Perfect. 'The Resistance' is always a good time. Just make sure you double-check all your portfolio links are live tonight, too, before tomorrow's prep. Don't want any broken links when Bartholomew is judging you!",
+        "timestamp": "2024-10-28T09:38:20.000Z"
+    },
+    {
+        "sender_id": "Tyler",
+        "age": 22,
+        "text": "Absolutely. You're gonna knock this interview out of the park, man. Get a full night's sleep. Prep is key, but rest is the foundation. Tomorrow, we secure the bag. Chat then.",
+        "timestamp": "2024-10-28T09:40:24.000Z"
+    }
+]

@@ -17,7 +17,7 @@ Follow these Guidelines:
 - Don't infer gender from ambiguous statements and distinguish stated preferences from one-off comments
 - If a category has no relevant information for a message, use an empty array
 - Do not explain your output, respond only with the supplied JSON and do not prettify the JSON.
- Only return the output as a JSON of the format- 
+ Only return the output as a JSON where the timestamp is verbaatim the timestamp supplied in the input. 
  Here is the list of messages- """
 
 extract_aggregate_pattern_prompt = """You have extracted information from 30 individual chat messages. Now synthesize these into a cohesive user profile.
@@ -34,5 +34,5 @@ Your task is to:
     - If emotional patterns only appear once, don't generalize to a "pattern"
     - When you see conflicting information, use recency bias - later messages override earlier ones UNLESS the earlier pattern was very strong
     - Group related facts (e.g., "has cat named Whiskers" + "cat is 3 years old" + "cat is picky eater" should be connected)
-    Only return the output as a JSON of the format.
+    Only return the output as a JSON of the format where the timestamp is the current timestamp in ISO 8601 format.
     Here are the insights: """    

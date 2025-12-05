@@ -2,316 +2,439 @@
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Yo dude, you alive? Haven't heard from you since last night."
+    "text": "Yo dude, you alive? Haven't heard from you since last night.",
+    "timestamp": "2024-10-27T10:00:00.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Barely lol. That shift at the warehouse absolutely destroyed me."
+    "text": "Barely lol. That shift at the warehouse absolutely destroyed me.",
+    "timestamp": "2024-10-27T10:01:21.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Rip. You still down for the gym later or you gonna bail on me?"
+    "text": "Rip. You still down for the gym later or you gonna bail on me?",
+    "timestamp": "2024-10-27T10:02:29.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "I mean, it's leg day... I could easily be convinced to skip it."
+    "text": "I mean, it's leg day... I could easily be convinced to skip it.",
+    "timestamp": "2024-10-27T10:03:52.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Stop being soft bro. We skipped last week too. Come on."
+    "text": "Stop being soft bro. We skipped last week too. Come on.",
+    "timestamp": "2024-10-27T10:04:31.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Alright, fine. But we're getting food after. I'm starving."
+    "text": "Alright, fine. But we're getting food after. I'm starving.",
+    "timestamp": "2024-10-27T10:05:43.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Deal. There's that new burger spot near your place we haven't tried."
+    "text": "Deal. There's that new burger spot near your place we haven't tried.",
+    "timestamp": "2024-10-27T10:06:14.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Bet. Did you see the game highlights from last night btw?"
+    "text": "Bet. Did you see the game highlights from last night btw?",
+    "timestamp": "2024-10-27T10:07:33.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Yeah man! That last second shot was actually insane."
+    "text": "Yeah man! That last second shot was actually insane.",
+    "timestamp": "2024-10-27T10:08:08.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Ref was totally paid off in the 3rd quarter though, trash calls."
+    "text": "Ref was totally paid off in the 3rd quarter though, trash calls.",
+    "timestamp": "2024-10-27T10:09:05.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "100%. Anyway, did you hear back from that job application yet?"
+    "text": "100%. Anyway, did you hear back from that job application yet?",
+    "timestamp": "2024-10-27T10:10:20.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Not yet. The waiting game is actually stressin me out tbh."
+    "text": "Not yet. The waiting game is actually stressin me out tbh.",
+    "timestamp": "2024-10-27T10:11:42.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Don't sweat it. Your portfolio is solid, they'd be dumb not to hire you."
+    "text": "Don't sweat it. Your portfolio is solid, they'd be dumb not to hire you.",
+    "timestamp": "2024-10-27T10:12:38.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Appreciate it man. Just wanna get out of my current place asap."
+    "text": "Appreciate it man. Just wanna get out of my current place asap.",
+    "timestamp": "2024-10-27T10:13:30.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "I feel you. My manager was on one today too. Micromanaging everything."
+    "text": "I feel you. My manager was on one today too. Micromanaging everything.",
+    "timestamp": "2024-10-27T10:14:15.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Classic. We definitely need a drink this weekend then."
+    "text": "Classic. We definitely need a drink this weekend then.",
+    "timestamp": "2024-10-27T10:14:48.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Way ahead of you. Already told Mike we're crashing his place Saturday."
+    "text": "Way ahead of you. Already told Mike we're crashing his place Saturday.",
+    "timestamp": "2024-10-27T10:16:03.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Does Mike even know this yet? Or are we just showing up? Lmao"
+    "text": "Does Mike even know this yet? Or are we just showing up? Lmao",
+    "timestamp": "2024-10-27T10:16:34.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "He will when we show up with pizza. He can't say no to free pizza."
+    "text": "He will when we show up with pizza. He can't say no to free pizza.",
+    "timestamp": "2024-10-27T10:17:34.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Facts. Oh, did you manage to fix your PC or is it still crashing?"
+    "text": "Facts. Oh, did you manage to fix your PC or is it still crashing?",
+    "timestamp": "2024-10-27T10:18:50.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "It's fried dude. GPU is dead. Gotta save up for a new one."
+    "text": "It's fried dude. GPU is dead. Gotta save up for a new one.",
+    "timestamp": "2024-10-27T10:19:35.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "That hurts. No Warzone for a while then? That's tragic."
+    "text": "That hurts. No Warzone for a while then? That's tragic.",
+    "timestamp": "2024-10-27T10:20:23.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "I'm playing on my old laptop, graphics on low. It's a struggle."
+    "text": "I'm playing on my old laptop, graphics on low. It's a struggle.",
+    "timestamp": "2024-10-27T10:21:42.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Respect the grind lol. Hey, you still talking to Sarah?"
+    "text": "Respect the grind lol. Hey, you still talking to Sarah?",
+    "timestamp": "2024-10-27T10:22:15.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Eh, kinda. It's complicated right now. She's moving soon."
+    "text": "Eh, kinda. It's complicated right now. She's moving soon.",
+    "timestamp": "2024-10-27T10:23:25.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Ah damn. Well, don't overthink it. Focus on the gains first."
+    "text": "Ah damn. Well, don't overthink it. Focus on the gains first.",
+    "timestamp": "2024-10-27T10:24:50.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Exactly. Gym cures all problems. Or at least distracts from them."
+    "text": "Exactly. Gym cures all problems. Or at least distracts from them.",
+    "timestamp": "2024-10-27T10:25:27.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Amen to that. Alright, I'm gonna drink some coffee and wake up."
+    "text": "Amen to that. Alright, I'm gonna drink some coffee and wake up.",
+    "timestamp": "2024-10-27T10:26:11.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Cool, I'll swing by your place in like 40 mins? Be ready."
+    "text": "Cool, I'll swing by your place in like 40 mins? Be ready.",
+    "timestamp": "2024-10-27T10:27:07.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Yeah 40 is good. I'll be out front. Don't be late this time."
+    "text": "Yeah 40 is good. I'll be out front. Don't be late this time.",
+    "timestamp": "2024-10-27T10:27:42.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Yo I'm outside. You ready?"
+    "text": "Yo I'm outside. You ready?",
+    "timestamp": "2024-10-27T11:06:51.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Yeah coming down now. Had to find my headphones."
+    "text": "Yeah coming down now. Had to find my headphones.",
+    "timestamp": "2024-10-27T11:07:44.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Bro that burger was actually life changing. Good call."
+    "text": "Bro that burger was actually life changing. Good call.",
+    "timestamp": "2024-10-27T13:30:11.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Told you. The spicy mayo is next level. We gotta go back."
+    "text": "Told you. The spicy mayo is next level. We gotta go back.",
+    "timestamp": "2024-10-27T13:31:07.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "My legs are shaking though. Walking up the stairs to my apartment was a mission."
+    "text": "My legs are shaking though. Walking up the stairs to my apartment was a mission.",
+    "timestamp": "2024-10-27T13:31:54.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Haha same. Leg day success. We definitely earned that cheat meal."
+    "text": "Haha same. Leg day success. We definitely earned that cheat meal.",
+    "timestamp": "2024-10-27T13:32:41.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "For sure. Hey, Mike just texted about Saturday. He said bringing drinks is mandatory."
+    "text": "For sure. Hey, Mike just texted about Saturday. He said bringing drinks is mandatory.",
+    "timestamp": "2024-10-27T13:34:03.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Figured. I'll pick up some stuff on the way. You get the snacks?"
+    "text": "Figured. I'll pick up some stuff on the way. You get the snacks?",
+    "timestamp": "2024-10-27T13:35:10.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Yeah I got you. I'll grab some chips and maybe dip."
+    "text": "Yeah I got you. I'll grab some chips and maybe dip.",
+    "timestamp": "2024-10-27T13:36:06.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Sweet. I'm gonna hop on the old laptop and try to run a game. Pray for me."
+    "text": "Sweet. I'm gonna hop on the old laptop and try to run a game. Pray for me.",
+    "timestamp": "2024-10-27T13:37:11.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Good luck with the lag lol. Invite me if it actually loads."
+    "text": "Good luck with the lag lol. Invite me if it actually loads.",
+    "timestamp": "2024-10-27T13:38:23.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Will do. If I disconnect randomly, just assume my computer exploded."
+    "text": "Will do. If I disconnect randomly, just assume my computer exploded.",
+    "timestamp": "2024-10-27T13:39:18.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Lmao noted. Catch you in a bit."
+    "text": "Lmao noted. Catch you in a bit.",
+    "timestamp": "2024-10-27T13:40:02.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Okay, so update: I tried launching the game and my laptop fan sounded like a jet engine taking off. I managed to get into the lobby, but the textures aren't loading properly, so everyone looks like melted clay figures. It's actually hilarious but unplayable."
+    "text": "Okay, so update: I tried launching the game and my laptop fan sounded like a jet engine taking off. I managed to get into the lobby, but the textures aren't loading properly, so everyone looks like melted clay figures. It's actually hilarious but unplayable.",
+    "timestamp": "2024-10-27T19:00:23.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Dude, that sounds like a nightmare. You might honestly be better off just watching a stream or something tonight instead of torturing your hardware. I remember when I tried playing on my old work laptop and it literally shut itself down from overheating after ten minutes."
+    "text": "Dude, that sounds like a nightmare. You might honestly be better off just watching a stream or something tonight instead of torturing your hardware. I remember when I tried playing on my old work laptop and it literally shut itself down from overheating after ten minutes.",
+    "timestamp": "2024-10-27T19:01:21.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Yeah, I think I'm gonna call it quits. It's overheating so bad I could probably cook an egg on the keyboard right now. I'll just hop on Discord on my phone and chat while you guys play if that's cool? I don't want to miss the banter even if I can't play."
+    "text": "Yeah, I think I'm gonna call it quits. It's overheating so bad I could probably cook an egg on the keyboard right now. I'll just hop on Discord on my phone and chat while you guys play if that's cool? I don't want to miss the banter even if I can't play.",
+    "timestamp": "2024-10-27T19:02:45.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Yeah, for sure, hop in the voice channel. Mike is already on, he's ranting about his new job again. Apparently, his boss made him stay late to reorganize the entire inventory system manually because the software crashed. He needs the moral support."
+    "text": "Yeah, for sure, hop in the voice channel. Mike is already on, he's ranting about his new job again. Apparently, his boss made him stay late to reorganize the entire inventory system manually because the software crashed. He needs the moral support.",
+    "timestamp": "2024-10-27T19:03:32.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Oh man, Mike always has the worst luck with jobs. I'll join in a sec. By the way, for Saturday, are we bringing just beer or should I grab something stronger? I saw that tequila was on sale at the store down the street, figured it might be good for shots later."
+    "text": "Oh man, Mike always has the worst luck with jobs. I'll join in a sec. By the way, for Saturday, are we bringing just beer or should I grab something stronger? I saw that tequila was on sale at the store down the street, figured it might be good for shots later.",
+    "timestamp": "2024-10-27T19:04:36.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Honestly, tequila sounds dangerous considering how last time went, but I'm down if you are. Just remember that we promised to help him move that couch on Sunday morning, so if we get too wrecked, that's going to be absolutely miserable for everyone involved."
+    "text": "Honestly, tequila sounds dangerous considering how last time went, but I'm down if you are. Just remember that we promised to help him move that couch on Sunday morning, so if we get too wrecked, that's going to be absolutely miserable for everyone involved.",
+    "timestamp": "2024-10-27T19:05:40.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Oh god, I completely forgot about the couch situation. Maybe we stick to beer and maybe just one bottle of something decent. I do not want to be lifting heavy furniture while hungover, that is a recipe for disaster and probably a back injury."
+    "text": "Oh god, I completely forgot about the couch situation. Maybe we stick to beer and maybe just one bottle of something decent. I do not want to be lifting heavy furniture while hungover, that is a recipe for disaster and probably a back injury.",
+    "timestamp": "2024-10-27T19:06:58.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Smart move. Stick to the light stuff. Also, Sarah texted me asking if she could bring her new boyfriend to the hangout. I told her I'd check with Mike first, but I feel like it might be a bit awkward considering the history there. What do you think?"
+    "text": "Smart move. Stick to the light stuff. Also, Sarah texted me asking if she could bring her new boyfriend to the hangout. I told her I'd check with Mike first, but I feel like it might be a bit awkward considering the history there. What do you think?",
+    "timestamp": "2024-10-27T19:08:18.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Whoa, that is definitely a curveball. I mean, it's been a while, so it shouldn't be too weird, but Mike might be a bit weird about it since he used to have a crush on her back in the day. Definitely clear it with him before giving her the green light."
+    "text": "Whoa, that is definitely a curveball. I mean, it's been a while, so it shouldn't be too weird, but Mike might be a bit weird about it since he used to have a crush on her back in the day. Definitely clear it with him before giving her the green light.",
+    "timestamp": "2024-10-27T19:09:40.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Yeah, that's what I was thinking. I'll call him after this match and feel it out. If he hesitates even a little bit, I'll just tell her it's a 'guys only' night or something to save the vibe. Better safe than sorry."
+    "text": "Yeah, that's what I was thinking. I'll call him after this match and feel it out. If he hesitates even a little bit, I'll just tell her it's a 'guys only' night or something to save the vibe. Better safe than sorry.",
+    "timestamp": "2024-10-27T19:10:43.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Just got off the phone with Mike. He said Sarah can come, but he was super cagey about it. Just a lot of 'yeah, whatever is fine.' Not his usual excited self, so we're officially on babysitting duty to make sure no awkward silences happen between them."
+    "text": "Just got off the phone with Mike. He said Sarah can come, but he was super cagey about it. Just a lot of 'yeah, whatever is fine.' Not his usual excited self, so we're officially on babysitting duty to make sure no awkward silences happen between them.",
+    "timestamp": "2024-10-27T20:15:10.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Told you! He still has a thing for her, bless his heart. We need to run interference on Saturday, make sure no awkward silences happen. I'll take the lead on the banter and we'll keep the groups separated until Mike is sufficiently lubricated."
+    "text": "Told you! He still has a thing for her, bless his heart. We need to run interference on Saturday, make sure no awkward silences happen. I'll take the lead on the banter and we'll keep the groups separated until Mike is sufficiently lubricated.",
+    "timestamp": "2024-10-27T20:16:11.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Good lookin' out. So, no shots, just beer and maybe some wine for Sarah? We should text Mike later to confirm the time, maybe around 8:30? That gives me enough time to shower and pretend I didn't spend the day covered in warehouse dust."
+    "text": "Good lookin' out. So, no shots, just beer and maybe some wine for Sarah? We should text Mike later to confirm the time, maybe around 8:30? That gives me enough time to shower and pretend I didn't spend the day covered in warehouse dust.",
+    "timestamp": "2024-10-27T20:17:28.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "8:30 is perfect. I'll pick up a 12-pack and maybe a cheap bottle of Merlot to look classy. Don't worry about the snacks, I'll grab some of those fancy chips you like—you know, the sour cream and onion ones? You deserve them."
+    "text": "8:30 is perfect. I'll pick up a 12-pack and maybe a cheap bottle of Merlot to look classy. Don't worry about the snacks, I'll grab some of those fancy chips you like—you know, the sour cream and onion ones? You deserve them.",
+    "timestamp": "2024-10-27T20:18:41.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "You're a hero. Anyway, switching gears, I have a callback interview scheduled for the design firm on Friday afternoon. Totally forgot to tell you earlier because my brain has been mush from all the heavy lifting this week."
+    "text": "You're a hero. Anyway, switching gears, I have a callback interview scheduled for the design firm on Friday afternoon. Totally forgot to tell you earlier because my brain has been mush from all the heavy lifting this week.",
+    "timestamp": "2024-10-27T20:19:35.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "HOLY CRAP, that's amazing news! See? I told you your portfolio was killer. When is it? You're gonna crush it, just be yourself, show them why they need you, and remember all the things we talked about regarding your pay rate."
+    "text": "HOLY CRAP, that's amazing news! See? I told you your portfolio was killer. When is it? You're gonna crush it, just be yourself, show them why they need you, and remember all the things we talked about regarding your pay rate.",
+    "timestamp": "2024-10-27T20:20:56.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "It's at 2 PM. I'm honestly trying not to freak out. It's the final round, so if I mess this up, I'm back to square one with the warehouse life. Wish I could practice the presentation portion with someone before then."
+    "text": "It's at 2 PM. I'm honestly trying not to freak out. It's the final round, so if I mess this up, I'm back to square one with the warehouse life. Wish I could practice the presentation portion with someone before then.",
+    "timestamp": "2024-10-27T20:22:15.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "We can totally practice tomorrow! I can play the role of the intimidating art director. I'll come up with some tough, obscure questions about design theory. Just think of it as a low-stakes drill to get the jitters out. We've got this."
+    "text": "We can totally practice tomorrow! I can play the role of the intimidating art director. I'll come up with some tough, obscure questions about design theory. Just think of it as a low-stakes drill to get the jitters out. We've got this.",
+    "timestamp": "2024-10-27T20:23:43.000Z"
   },
   {
     "sender_id": "Oliver",
     "age": 23,
-    "text": "Okay, that would actually help a ton. Thanks man. I really appreciate the backup. Gotta start drafting some detailed answers for the standard 'where do you see yourself' questions now. Talk to you tomorrow for the prep session."
+    "text": "Okay, that would actually help a ton. Thanks man. I really appreciate the backup. Gotta start drafting some detailed answers for the standard 'where do you see yourself' questions now. Talk to you tomorrow for the prep session.",
+    "timestamp": "2024-10-27T20:24:28.000Z"
   },
   {
     "sender_id": "Tyler",
     "age": 22,
-    "text": "Anytime, brother. Get some rest tonight, you deserve it after that warehouse shift and leg day. Focus on recovering. See ya in the morning for interview bootcamp. Get those gains, get that job."
+    "text": "Anytime, brother. Get some rest tonight, you deserve it after that warehouse shift and leg day. Focus on recovering. See ya in the morning for interview bootcamp. Get those gains, get that job.",
+    "timestamp": "2024-10-27T20:25:31.000Z"
+  },
+  {
+    "sender_id": "Oliver",
+    "age": 23,
+    "text": "Hey, just confirming our interview prep session for tomorrow morning. How about 10 AM? I've blocked out two hours for it so we can run through everything twice if we need to. I'm already nervous just thinking about it.",
+    "timestamp": "2024-10-28T09:30:15.000Z"
+  },
+  {
+    "sender_id": "Tyler",
+    "age": 22,
+    "text": "10 AM sounds good to me. I'll be in character as 'The Intimidating Art Director, Bartholomew.' Expect me to be overly critical about your font choices. Make sure you have your digital portfolio ready to screen share, especially the one project we refined last week.",
+    "timestamp": "2024-10-28T09:31:37.000Z"
+  },
+  {
+    "sender_id": "Oliver",
+    "age": 23,
+    "text": "Oh man, Bartholomew sounds terrifying. I'll make sure my kerning is perfect. Seriously though, I'm stressing about the case study presentation part—it needs to be exactly 15 minutes, and I keep rambling. I need you to be ruthless with the timer.",
+    "timestamp": "2024-10-28T09:32:15.000Z"
+  },
+  {
+    "sender_id": "Tyler",
+    "age": 22,
+    "text": "Don't sweat the rambling. That's why we practice. We'll focus on cutting out filler words and hitting your key metrics right at the 14-minute mark. Remember: confidence over content in the presentation, you already know your stuff. Just sell it.",
+    "timestamp": "2024-10-28T09:33:38.000Z"
+  },
+  {
+    "sender_id": "Oliver",
+    "age": 23,
+    "text": "Solid advice. Speaking of Mike and awkward social dynamics, did he ever give you a final, non-cagey answer about Sarah bringing her new guy on Saturday? I want to prepare myself mentally for the potential disaster that is looming.",
+    "timestamp": "2024-10-28T09:34:39.000Z"
+  },
+  {
+    "sender_id": "Tyler",
+    "age": 22,
+    "text": "He finally conceded. He said, and I quote, 'Fine, as long as he brings something to drink and doesn't talk about sports I don't care about.' So, the bar is pretty low. We should definitely grab a backup board game or something to keep everyone occupied if the vibe gets weird.",
+    "timestamp": "2024-10-28T09:35:50.000Z"
+  },
+  {
+    "sender_id": "Oliver",
+    "age": 23,
+    "text": "A board game is genius. Mike loves those obscure strategy games anyway. I think I have that card game 'The Resistance' that forces people to interact. That should prevent anyone from sulking in the corner. I'll pack it up tonight after my brain detoxes.",
+    "timestamp": "2024-10-28T09:37:13.000Z"
+  },
+  {
+    "sender_id": "Tyler",
+    "age": 22,
+    "text": "Perfect. 'The Resistance' is always a good time. Just make sure you double-check all your portfolio links are live tonight, too, before tomorrow's prep. Don't want any broken links when Bartholomew is judging you!",
+    "timestamp": "2024-10-28T09:38:20.000Z"
+  },
+  {
+    "sender_id": "Oliver",
+    "age": 23,
+    "text": "Done and done. Links checked, case study reviewed, and I've started polishing my answers for the standard 'where do you see yourself' questions now. I'll see you at 10 AM sharp. Bring the tough love, Bartholomew.",
+    "timestamp": "2024-10-28T09:39:13.000Z"
+  },
+  {
+    "sender_id": "Tyler",
+    "age": 22,
+    "text": "Absolutely. You're gonna knock this interview out of the park, man. Get a full night's sleep. Prep is key, but rest is the foundation. Tomorrow, we secure the bag. Chat then.",
+    "timestamp": "2024-10-28T09:40:24.000Z"
   }
 ]
