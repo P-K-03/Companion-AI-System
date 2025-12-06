@@ -62,10 +62,10 @@ An AI-powered companion chatbot that learns from conversation history and adapts
 
 ## Output
 **Default personality**
-
+<img width="1522" height="203" alt="Screenshot 2025-12-06 134017" src="https://github.com/user-attachments/assets/dcb8db79-3815-428a-8a51-c98d7ac95373" />
 
 **Witty Friend Personality**
-
+<img width="1526" height="208" alt="Screenshot 2025-12-06 134112" src="https://github.com/user-attachments/assets/45140e83-90fb-43ae-86e4-bceefcedae6d" />
 
 ## Running the Project
 
