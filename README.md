@@ -1,7 +1,5 @@
 # AI Companion Chat System
 
-An AI-powered companion chatbot that learns from conversation history and adapts to different personality styles. The system processes chat data to build user profiles and provides contextually aware responses.
-
 ## Project Structure
 
 ### 1. Data Setup
