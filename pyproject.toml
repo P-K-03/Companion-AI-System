@@ -10,3 +10,4 @@ dependencies = [
     "groq>=0.37.0",
     "pydantic>=2.12.5",
 ]
+ 
