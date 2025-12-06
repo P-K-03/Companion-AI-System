@@ -34,14 +34,14 @@ class AggregatePatternSchema(BaseModel):
 
 def extract_features_from_chat(
     client: Groq, source_chats_path: str, dest_chats_path: str
-):
+) -> None:
     with open(source_chats_path, "r") as file:
-        Tylers_chats = json.load(file)
+        chats = json.load(file)
     # print(json.dumps(Tylers_chats, indent=4))
 
     # Get all the chats
     messages = []
-    for element in Tylers_chats:
+    for element in chats:
         messages.append(element["text"])
 
     # Extract insights
@@ -84,7 +84,6 @@ def extract_features_from_chat(
                 file.write(",")
         file.write("]")
     print("Data extracted from all text messages")
-    return extracts
 
 
 def aggregate_patterns_from_features(
@@ -92,7 +91,7 @@ def aggregate_patterns_from_features(
     extracted_features_path: str,
     save_to: str,
     extracts: List[Dict] = None,
-):
+)-> None:
 
     print("Loading insights")
     if extracts is None:
@@ -125,7 +124,8 @@ def aggregate_patterns_from_features(
     # print(chat_completion.choices[0].message.content)
 
     print("Generated User Profile")
-    # Save the PROFILE to a json file
+
+    # saving the profile
     with open(save_to, "w", encoding="utf-8") as file:
         # json.dump(entry, file)
         file.write(str(chat_completion.choices[0].message.content))
@@ -171,7 +171,7 @@ def main():
     )
 
     # Save the chats to a vector database
-    save_chats(path_to_db = "chromaDB", conversation_file_path = "chats/Tylers_chats.json", collection_name = "Tyler")
+    # save_chats(path_to_db = "chromaDB", conversation_file_path = "chats/Tylers_chats.json", collection_name = "Tyler")
 
 
 if __name__ == "__main__":
