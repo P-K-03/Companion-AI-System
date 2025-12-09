@@ -60,10 +60,13 @@
 
 ## Output
 **Default personality**
-<img width="1522" height="203" alt="Screenshot 2025-12-06 134017" src="https://github.com/user-attachments/assets/dcb8db79-3815-428a-8a51-c98d7ac95373" />
+
+<img width="1417" height="369" alt="Screenshot 2025-12-09 231312" src="https://github.com/user-attachments/assets/8c0e9f57-aff1-486f-a0d1-47e27a5f74c6" />
 
 **Witty Friend Personality**
-<img width="1526" height="208" alt="Screenshot 2025-12-06 134112" src="https://github.com/user-attachments/assets/45140e83-90fb-43ae-86e4-bceefcedae6d" />
+
+<img width="1412" height="699" alt="Screenshot 2025-12-09 231141" src="https://github.com/user-attachments/assets/5a1584cb-93bf-4b73-957f-2e4286d3ef3a" />
+
 
 ## Running the Project
 
